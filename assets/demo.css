@@ -4,6 +4,14 @@ html{
 	background-color: #FFFFFF;
 }
 
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 500px;
+}
+
 body{
 	font:14px/1.5 Arial, Helvetica, sans-serif;
 	padding:0;
