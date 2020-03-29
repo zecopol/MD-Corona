@@ -1,20 +1,15 @@
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
+html{
+	background-color: #FFFFFF;
+}
+
 body{
 	font:14px/1.5 Arial, Helvetica, sans-serif;
 	padding:0;
 	margin:0;
 }
 
-.container {
-    text-align: center;
-}
-.container > iframe {
-    background: black;
-    border: none;
-    height: 450px;
-    width: 900px;
-}
 
 .menu{
 	text-align: center;
